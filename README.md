@@ -17,8 +17,8 @@ Este estudo ancora-se em três frentes. Primeiro, no arcabouço de Tinto, que ex
 https://agenciagov.ebc.com.br/noticias/202402/ensino-medio-tem-maior-taxa-de-evasao-da-educacao-basica
 https://www.cps.fgv.br/ibrecps/rede/finais/Etapa3-Pesq_MotivacoesEscolares_sumario_principal_anexo-Andre_FIM.pdf
 https://institutoayrtonsenna.org.br/abandono-escolar/
-https://files.eric.ed.gov/fulltext/ED501335.pdf (Tinto — integração acadêmica e social)/
-https://eric.ed.gov/?id=ED520179 (síntese sobre a teoria de Tinto)/
-https://www.issuelab.org/resources/11658/11658.pdf (Rumberger — revisão de 25 anos sobre evasão)/
-https://imdsbrasil.org/doc/ImdsA002-2022-CausasConsequ%C3%AAnciasAbandonoEvas%C3%A3oEscolar.pdf (IMDS — causas e consequências no Brasil)/
-https://www.gov.br/inep/pt-br/centrais-de-conteudo/acervo-linha-editorial/publicacoes-institucionais/estatisticas-e-indicadores-educacionais/dicionario-de-indicadores-educacionais-2013-formulas-de-calculo (INEP — dicionário de indicadores)/
+https://files.eric.ed.gov/fulltext/ED501335.pdf (Tinto — integração acadêmica e social)\
+https://eric.ed.gov/?id=ED520179 (síntese sobre a teoria de Tinto)\
+https://www.issuelab.org/resources/11658/11658.pdf (Rumberger — revisão de 25 anos sobre evasão)\
+https://imdsbrasil.org/doc/ImdsA002-2022-CausasConsequ%C3%AAnciasAbandonoEvas%C3%A3oEscolar.pdf (IMDS — causas e consequências no Brasil)\
+https://www.gov.br/inep/pt-br/centrais-de-conteudo/acervo-linha-editorial/publicacoes-institucionais/estatisticas-e-indicadores-educacionais/dicionario-de-indicadores-educacionais-2013-formulas-de-calculo (INEP — dicionário de indicadores)
