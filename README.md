@@ -8,7 +8,7 @@
     1. Coletar os dados através do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) e Ministério da Educação.\
     2. Pré processamento e limpeza dos dados coletados.\
     3. Análise dos dados obtidos.\
-    4. Modelagem a partir da análise dos dados.\
+    4. Modelagem a partir da análise dos dados.
 
 ``Referências``\
 https://agenciagov.ebc.com.br/noticias/202402/ensino-medio-tem-maior-taxa-de-evasao-da-educacao-basica
