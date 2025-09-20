@@ -9,6 +9,65 @@
     2. Pré processamento e limpeza dos dados coletados.\
     3. Análise dos dados obtidos.\
     4. Modelagem a partir da análise dos dados.
+
+    "Cronograma"
+    # 📅 Cronograma Acadêmico – Projeto Fluxo Escolar no Brasil
+
+## Etapas, Datas e Entregas
+
+### Definição do Projeto e Equipe  
+- **Data de Entrega:** 29/ago  
+- **Checkpoint:** 13/ago  
+- **Atividades:**  
+  - Definição do tema (evasão e repetência no Brasil).  
+  - Definição da equipe.  
+  - Redação da introdução: contexto da educação no Brasil e relevância social.  
+  - Formulação do objetivo principal.  
+  - Escolha e descrição inicial da base de dados (INEP/MEC).  
+  - Seleção de referências (Instituto Ayrton Senna, MEC, FGV).  
+- **Produtos Esperados:**  
+  - Documento inicial com: Título, Introdução, Justificativa, Objetivo, Descrição da base de dados.  
+
+---
+
+### Referencial Teórico e Cronograma  
+- **Data de Entrega:** 26/set  
+- **Checkpoint:** 10/set  
+- **Atividades:**  
+  - Levantamento e análise de trabalhos correlacionados (fluxo escolar, evasão, desigualdade educacional).  
+  - Definição dos conceitos teóricos que embasam o estudo.  
+  - Construção do pipeline da solução (coleta → limpeza → análise → modelagem → interpretação).  
+  - Elaboração do cronograma detalhado do projeto.  
+- **Produtos Esperados:**  
+  - Documento com: Referencial Teórico, Pipeline da Solução e Cronograma completo.  
+
+---
+
+### Implementação Parcial  
+- **Data de Entrega:** 31/out  
+- **Checkpoint:** 08/out  
+- **Atividades:**  
+  - Coleta dos dados do INEP/MEC.  
+  - Pré-processamento: tratamento de dados faltantes, duplicados e inconsistentes.  
+  - Análise exploratória inicial: estatísticas e visualizações.  
+  - Teste de um modelo de regressão ou classificação (evasão).  
+  - Revisão e atualização do cronograma, se necessário.  
+- **Produtos Esperados:**  
+  - Notebook executável com: Análise Exploratória, Pré-processamento, Modelo Base inicial, Cronograma atualizado.  
+
+---
+
+### Implementação Final e Entrega  
+- **Data de Entrega:** 28/nov  
+- **Checkpoint:** 12/nov  
+- **Atividades:**  
+  - Refinamento da análise e modelagem (comparação de modelos estatísticos ou de ML).  
+  - Interpretação e discussão dos resultados.  
+  - Redação final do artigo em formato acadêmico.  
+  - Preparação da apresentação (vídeo de 5–10 min).  
+  - Organização e repositório no GitHub com todo o material.  
+- **Produtos Esperados:**
+
     
 ``Referencial Teórico``\
 Este estudo ancora-se em três frentes. Primeiro, no arcabouço de Tinto, que explica a permanência escolar pela integração acadêmica e social: quando o aluno se sente apoiado academicamente e pertencente ao ambiente, sua chance de continuidade aumenta. Usamos Tinto para justificar variáveis de engajamento/pertencimento e práticas escolares (tutoria, clima escolar) no modelo. Em complemento, a revisão de Rumberger sobre 25 anos de pesquisas mostra que a evasão é um processo cumulativo de riscos (baixo desempenho, vulnerabilidade socioeconômica, clima/segurança escolar e fatores do território). Adotamos Rumberger para estruturar a análise multifatorial (econômica, criminalidade/violência e suporte psicossocial) e para selecionar controles em diferentes níveis (indivíduo, família, escola e território). Para o contexto brasileiro, utilizamos estudos do IMDS, que associam evasão a renda familiar, escolaridade dos pais e vulnerabilidades territoriais, reforçando a pertinência de políticas de acolhimento socioemocional e busca ativa no recorte nacional. Esses achados orientam a escolha de variáveis de contexto e de políticas escolares a testar. Por fim, as estatísticas recentes do MEC/INEP situam o ensino médio como etapa crítica (repetência 3,9%; evasão 5,9%), o que justifica o foco empírico deste trabalho nesta fase. Esses números servem como linha de base para avaliar a magnitude dos efeitos estimados. 
